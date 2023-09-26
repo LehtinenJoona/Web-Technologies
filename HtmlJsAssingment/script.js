@@ -1,6 +1,7 @@
 // Add new todo task to todoList
 function addTodo() {
     // TODO: Get the value from todoInput element
+    document.getElementById("todoinput")
 
     // TODO: Check that input value was provided
 
