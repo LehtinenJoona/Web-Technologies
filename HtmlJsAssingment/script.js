@@ -23,7 +23,7 @@ function addTodo() {
 
     // TODO: Add new todo list item to todoList
 
-    // TODO: Set todoInput value to empty string
+    // TODO: Set todoInput value to empty stringvöö
 }
 
 // Extra assingment -> try to find a way to remove all completed todo items
